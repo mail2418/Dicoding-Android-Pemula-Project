@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DicodingLastProject</string>
+    <string name="nama_aboutme">Muhammad Ismail</string>
+    <string name="emailme">muhammadismail2418@gmail.com</string>
+    <string name="mahasiswame">Mahasiswa Teknik Informatika ITS</string>
+    <string name="kontakme">+621358945230</string>
+    <string name="instagramme">/@mail2418</string>
+    <string name="detail_wisata">Detail Wisata</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="operasi_wisata">Jam Operasi</string>
+    <string name="share">Share</string>
+    <string name="email">Email</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="about_me">About Me</string>
+    <string name="https_www_linkedin_com_in_muhammad_ismail_a0b636190">https://www.linkedin.com/in/muhammad-ismail-a0b636190/</string>
+</resources>
